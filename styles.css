@@ -67,6 +67,7 @@ h2 {
 
 .card:hover {
     transform: scale(1.05);
+    border-radius: 10px;
     box-shadow: 0 4px 20px #970808
 }
 
@@ -202,7 +203,7 @@ nav {
 
 footer {
     text-align: center; /* Centrar el texto del pie de página */
-    padding: 50px 0; /* Espaciado interno */
+    padding: 20px 0; /* Espaciado interno */
     background: #333; /* Fondo del pie de página */
     color: #fff; /* Color del texto */
     position: relative; /* Posición relativa */
